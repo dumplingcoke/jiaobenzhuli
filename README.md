@@ -1,4 +1,4 @@
-# 替换智能对象图层并导出图片的功能来源链接
+# 替换智能对象图层源码获取
 - https://gist.github.com/laryn/0a1f6bf0dab5b713395a835f9bfa805c#file-replace_smartobject_image-js
 
 # 概述
